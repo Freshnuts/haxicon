@@ -1,4 +1,3 @@
-# Tested on Kali Debian Linux.
 import sys
 
 # First of all, this is for fun and profit.
