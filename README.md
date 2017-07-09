@@ -29,7 +29,7 @@ Up to you. </br>
 5. When is this happening?</br>
 If you're reading this, the time is now, your destiny awaits..</br>
 
-I'll be creating an algorithm from Enlgish language, that turns everything you</br>
+I'll be creating an algorithm for the English language, that turns everything you</br>
 type into y0d@ h@ck talk. (i.e - moving subjects, predicates, adjectives, nouns, etc.,</br>
 then places them into yoda talk order.) But, this is going to be a working process..</br>
 
